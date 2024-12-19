@@ -3,13 +3,13 @@
 Hi, I'm Zhihao Shan! 👋
 
 ## About Me
-I am currently a Master of Science in Financial Economics candidate at Columbia Business School (Class of 2026), with a strong academic background in Data Science and Business & Finance from NYU Shanghai (GPA: 3.87). My interests and expertise lie in quantitative finance, machine learning, and financial modeling.
+I am currently a Master of Science in Financial Economics candidate at Columbia Business School (Class of 2026), with a strong academic background in Data Science (Concentration in AI) from NYU Shanghai. My interests and expertise lie in quantitative finance, machine learning, and financial modeling.
 
 ### 📄 [View My Resume](assets/Zhihao_Shan_Resume.pdf)
 
 ## Education
 - **Columbia Business School**, MS in Financial Economics (2024–2026)
-  - Coursework: Econometrics, Finance Theory, Financial Econometrics, Big Data in Finance, and more.
+  - Coursework (All at Ph.D. level): Computational Statistics, Econometrics, Finance Theory, Financial Econometrics: Time Series, Big Data in Finance, and more.
 - **NYU Shanghai**, BS in Data Science, Secondary Major: Business & Finance (2020–2024)
   - Honors: Business and Economics Honors Program
   - Study Abroad: NYU (2022-2023)
