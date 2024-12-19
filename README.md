@@ -31,8 +31,8 @@ I am currently a Master of Science in Financial Economics candidate at Columbia 
 
 | Repository Name                                         | Language         | Description                                |
 |--------------------------------------------------------|------------------|--------------------------------------------|
-| [NYUSH_Honors_Thesis_DRL_Hedging](https://github.com/james-shan/NYUSH_Honors_Thesis_DRL_Hedging) | Jupyter Notebook | Deep reinforcement learning for hedging. |
-| [NYUSH_Volatility_Modeling_Project_DCC_GARCH](https://github.com/james-shan/NYUSH_Volatility_Modeling_Project_DCC_GARCH) | HTML | DCC-GARCH volatility modeling project.|
+| [NYUSH_Honors_Thesis_DRL_Hedging](https://github.com/james-shan/NYUSH_Honors_Thesis_DRL_Hedging) | Python | Deep reinforcement learning for hedging. |
+| [NYUSH_Volatility_Modeling_Project_DCC_GARCH](https://github.com/james-shan/NYUSH_Volatility_Modeling_Project_DCC_GARCH) | R | DCC-GARCH volatility modeling project.|
 | [NYUSH_Information_Visualization_Project_California_Fires](https://github.com/james-shan/NYUSH_Information_Visualization_Project_California_Fires) | JavaScript | Visualizing California wildfires.         |
 | [NYUSH_Database_Airplane_Ticket_Reservation_System](https://github.com/james-shan/NYUSH_Database_Airplane_Ticket_Reservation_System) | Python | A database system for ticket reservations. |
 | [Baruch_QuantNet_CPP_for_FE_Code](https://github.com/james-shan/Baruch_QuantNet_CPP_for_FE_Code) | C++ | C++ projects for quantitative finance.     |
