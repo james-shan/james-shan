@@ -5,7 +5,7 @@ Hi, I'm Zhihao Shan! 👋
 ## About Me
 I am currently a Master of Science in Financial Economics candidate at Columbia Business School (Class of 2026), with a strong academic background in Data Science (Concentration in AI) from NYU Shanghai. My interests and expertise lie in quantitative finance, machine learning, and financial modeling.
 
-### 📄 [View My Resume](assets/Zhihao_Shan_Resume.pdf)
+### 📄 [View My Resume](assets/Zhihao_Shan_Resume.md)
 
 ## Education
 - **Columbia Business School**, MS in Financial Economics (2024–2026)
@@ -22,9 +22,14 @@ I am currently a Master of Science in Financial Economics candidate at Columbia 
 - **Software Developer Intern** @ SenseTime  
   Visualized web security threats and enhanced platforms for web attack detection.
 
-## Programming Languages
-- Programming: Python (NumPy, Pandas, PyTorch, etc.), R, C++, Julia, Javascript (React, Node.js), SQL
-
+## Technical Skills
+- Programming: Python (NumPy, Pandas, PyTorch, etc.), R, C++, Julia, Javascript (React, Node.js), SQL.
+- Statistics: Linear Regression and its variants, Hypothesis Testing, Asymptotic Analysis, Generalized Method of Moments, Extremum Estimators, etc.
+- Stochastic Process: Markov Chain, Martingale, Brownian Motion, Ito's lemma, Girsanov Theorem, Feymann-Kac, etc.
+- Optimization: Linear Programming, Lagrangian, Gradient Descent and its variants, Newton's method, Quasi-Newton methods.
+- Machine Learning: Feature Engineering, Hyperparameter Tuning, Ensemble Methods, Deep Learning, Reinforcement Learning.
+- Derivatives: Option pricing under stochastic volatility, Monte-Carlo Methods, Jump-Diffusion Model parameter estimation, etc.
+- Portfolio Theory: Mean-Variance Portfolio, Tangency Portfolio, Mutual Fund Theorem, Merton's Portfolio Choice.
 ---
 
 ## My Repositories
