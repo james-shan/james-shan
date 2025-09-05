@@ -13,8 +13,8 @@ I am Zhihao Shan, currently a candidate for Master of Science in Financial Econo
   - ✈️ Study Abroad: NYU (2022-2023)
 
 ## 💼 Professional Experience
-- **Quantitative Researcher Intern** @ Huatai Securities  
-  Stock Index Futures time series forecasting.
+- **Quantitative Analyst Summer Intern** @ Capstone Investment Advisors  
+  Global Rates Relative Value.
 - **Financial Engineering Analyst Intern** @ Soochow Securities  
   Stock Selection Models and backtesting system optimization.
 - **Software Developer Intern** @ SenseTime  
