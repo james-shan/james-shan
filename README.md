@@ -3,7 +3,7 @@
 ## About Me
 I am Zhihao Shan, currently a candidate for Master of Science in Financial Economics at Columbia Business School (Class of 2026), with an undergrad background in Data Science (Concentration in AI) from NYU Shanghai. My interests and expertise lie in quantitative finance, machine learning, and financial modeling. Contact me: zs2686@gsb.columbia.edu.
 
-### 📄 [View My Resume](https://raw.githubusercontent.com/james-shan/james-shan/main/Zhihao_Shan_Resume.pdf)
+### 📄 [View My Resume](https://raw.githubusercontent.com/james-shan/james-shan/main/Zhihao_Shan_Resume_Aug.pdf)
 
 ## 🎓 Education
 - **Columbia Business School**, MS in Financial Economics (2024–2026)  
